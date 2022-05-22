@@ -1,0 +1,30 @@
+File:All Data:
+Alice had contact with Bob and Carol and Darryl and Ettienne Fourth and Forbert Findlesworth II and Gordie.
+Bob had contact with Lammle.
+Carol had contact with Lammle.
+Darryl had contact with Lammle.
+Ettienne Fourth had contact with Lammle.
+Forbert Findlesworth II had contact with Molly and Job.
+Gordie had contact with Kirk.
+Hanes had contact with Bob and Carol and Ettienne Fourth and Forbert Findlesworth II.
+Illersley had contact with Darryl and Ettienne Fourth and Forbert Findlesworth II and Job and Kirk and Gordie.
+Job had contact with Lammle.
+Kirk had contact with Job.
+Lammle had contact .
+Molly had contact with Job and Kirk.
+
+----------
+ Patient Zeros:
+
+Alice
+Hanes
+Illersley
+----------
+ Potential Zombies:
+
+Lammle
+----------
+ Closest Patient-Zero - Zombie Connections:
+
+Illersley -> Darryl -> Lammle. Dist: 2
+

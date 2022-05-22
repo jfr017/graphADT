@@ -1,0 +1,31 @@
+File:All Data:
+Bob had contact with Paul and Mark and Carol and Leanne and Will.
+Paul had contact with Zach.
+Mark had contact with Philip and Zach.
+Carol had contact with Mark and Leanne.
+Leanne had contact with Sarai.
+Will had contact with Leanne and Mark.
+Farley had contact with Paul.
+Sarai had contact .
+Larry had contact with Carol and Mark and Leanne and Will.
+Philip had contact .
+Zach had contact with Philip.
+
+----------
+ Patient Zeros:
+
+Bob
+Farley
+Larry
+----------
+ Potential Zombies:
+
+Sarai
+Philip
+----------
+ Closest Patient-Zero - Zombie Connections:
+
+Larry -> Leanne -> Sarai. Dist: 2
+
+Larry -> Mark -> Philip. Dist: 2
+

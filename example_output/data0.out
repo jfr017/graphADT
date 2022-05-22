@@ -1,0 +1,18 @@
+File:All Data:
+Larry had contact with Zach.
+Zach had contact with George.
+George had contact .
+
+----------
+ Patient Zeros:
+
+Larry
+----------
+ Potential Zombies:
+
+George
+----------
+ Closest Patient-Zero - Zombie Connections:
+
+Larry -> Zach -> George. Dist: 2
+
